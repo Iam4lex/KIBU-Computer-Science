@@ -1,6 +1,7 @@
 ## Kibabii University Notes and Past Papers
 
 These materials are intended for educational purposes only and are shared to support learning among Kibabii University students. By using these materials, you agree to the following terms:
+
 **Attribution**
 - The content of these materials is derived from various sources, including:
   - Lecturers' notes and materials.
