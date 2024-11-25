@@ -11,7 +11,7 @@
 <br> 
 
 Hello techies! These are notes for computer science students from Kibabii University.
-## Pastpapers
+## Past papers
 - [First Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
 - [Second Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
 - [Third Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
