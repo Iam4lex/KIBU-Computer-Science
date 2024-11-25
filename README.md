@@ -12,9 +12,9 @@
 
 Hello techies! These are notes for computer science students from Kibabii University.
 ## Pastpapers
-- [First Year)](https://github.com/Iam4lex/KIBU-Computer-Science/) 
-- [Second Year)](https://github.com/Iam4lex/KIBU-Computer-Science/) 
-- [Third Year)](https://github.com/Iam4lex/KIBU-Computer-Science/) 
+- [First Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
+- [Second Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
+- [Third Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
 
 **Author**: Iam4lex  
 **Connect with me**:  
