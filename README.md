@@ -13,7 +13,7 @@
 Hello techies! These are notes for computer science students from Kibabii University.
 ## Past papers
 - [First Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
-- [Second Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
+- [Second Year](https://github.com/Iam4lex/KIBU-Computer-Science/tree/main/Year%202%20Semester%201/CSC210%20OOP%202/PP) 
 - [Third Year](https://github.com/Iam4lex/KIBU-Computer-Science/) 
 
 **Author**: Iam4lex  
